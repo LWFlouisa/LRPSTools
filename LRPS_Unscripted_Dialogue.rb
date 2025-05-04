@@ -11,3 +11,5 @@ def contraprob
 end
 
 contrastive_dialogue
+
+# => "Cette granit violet Je ne mange quicely, mais cette pomme rouge Je ne jute quicely. [ 0.034482759 ] [ 0.333333333 / 0.038461538 ]"
